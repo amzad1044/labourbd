@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"labourbd.areas"}],"uuid":"0843b47985e84ea2b47bd764f7c96c11"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"labourbd.migrations"}],"uuid":"0be2b966f89d4ad9990f7cd29a920d7a"}

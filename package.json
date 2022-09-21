@@ -27,6 +27,6 @@
         "vform": "^1.0.1",
         "vue-progressbar": "^0.7.5",
         "vue-router": "^3.2.0",
-        "vuetify": "^2.2.29"
+        "vuetify": "^2.6.10"
     }
 }
